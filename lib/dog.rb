@@ -1,9 +1,7 @@
 class Dog 
-  quique = Dog.new 
-mocha = Dog.new
-loca = Dog.new 
+  
 end
 
-quique = Dog.new 
-mocha = Dog.new
-loca = Dog.new 
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new 
